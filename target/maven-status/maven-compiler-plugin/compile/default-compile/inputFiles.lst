@@ -1,0 +1,10 @@
+/Users/rauf.tababilov/Desktop/hashfiles2/src/main/java/com/rauf/hashfiles/HashfilesApplication.java
+/Users/rauf.tababilov/Desktop/hashfiles2/src/main/java/com/rauf/hashfiles/config/HashFilesConfiguration.java
+/Users/rauf.tababilov/Desktop/hashfiles2/src/main/java/com/rauf/hashfiles/controller/UserInjector.java
+/Users/rauf.tababilov/Desktop/hashfiles2/src/main/java/com/rauf/hashfiles/controller/HashFilesController.java
+/Users/rauf.tababilov/Desktop/hashfiles2/src/main/java/com/rauf/hashfiles/entity/FileHashDTO.java
+/Users/rauf.tababilov/Desktop/hashfiles2/src/main/java/com/rauf/hashfiles/entity/HashType.java
+/Users/rauf.tababilov/Desktop/hashfiles2/src/main/java/com/rauf/hashfiles/entity/FileHashEntity.java
+/Users/rauf.tababilov/Desktop/hashfiles2/src/main/java/com/rauf/hashfiles/service/FileHashService.java
+/Users/rauf.tababilov/Desktop/hashfiles2/src/main/java/com/rauf/hashfiles/entity/IFileHash.java
+/Users/rauf.tababilov/Desktop/hashfiles2/src/main/java/com/rauf/hashfiles/entity/FileHashRepository.java

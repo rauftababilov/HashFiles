@@ -1,0 +1,10 @@
+com/rauf/hashfiles/entity/FileHashRepository.class
+com/rauf/hashfiles/controller/UserInjector.class
+com/rauf/hashfiles/entity/FileHashEntity.class
+com/rauf/hashfiles/entity/HashType.class
+com/rauf/hashfiles/controller/HashFilesController.class
+com/rauf/hashfiles/service/FileHashService.class
+com/rauf/hashfiles/HashfilesApplication.class
+com/rauf/hashfiles/config/HashFilesConfiguration.class
+com/rauf/hashfiles/entity/FileHashDTO.class
+com/rauf/hashfiles/entity/IFileHash.class
